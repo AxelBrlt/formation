@@ -12,8 +12,6 @@ Pour comprendre cela, imaginez un bureau avec trois départements : Administrati
 
 ## Avantages des VLANs
 
-Les VLANs apportent plusieurs avantages significatifs dans la gestion des réseaux informatiques. Voici les principaux :
-
 - ### Sécurité optimisée
 
 Un des avantages majeurs des VLANs est l'amélioration de la sécurité. En segmentant le réseau en plusieurs VLANs, les communications entre les différents groupes d'utilisateurs peuvent être strictement contrôlées. Par exemple, les données sensibles du département financier peuvent être isolées des autres départements, ce qui réduit le risque d'accès non autorisé ou de fuite de données. De plus, en cas d'attaque, l'impact peut être limité à un seul VLAN, sans affecter le reste du réseau.
